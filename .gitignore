@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data Files
+*.csv
+*.xlsx
+
+#VS Code
+.vscode/
+
+# System
+.DS_Store
